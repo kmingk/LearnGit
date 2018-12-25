@@ -8,3 +8,4 @@ ee
 ff
 gg
 Create new branch is quick AND  simple
+--no-ff
