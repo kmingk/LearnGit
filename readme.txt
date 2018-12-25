@@ -7,4 +7,4 @@ dd
 ee
 ff
 gg
-Create new branch is quick
+Create new branch is quick & simple
